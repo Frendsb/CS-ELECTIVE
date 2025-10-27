@@ -2,4 +2,4 @@
 <h1>Activity for practicing Git and GitHub commands.</h1>
 <h3>Author: Efren Johannes Bucao</h3>
 
-<center>![cat](cat.jpg)</center>
+![cat](cat.jpg)
