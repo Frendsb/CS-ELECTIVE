@@ -3,3 +3,5 @@
 <h3>Author: Efren Johannes Bucao :sleeping:</h3>
 
 ![cat](cat.jpg)
+
+`#000000`
